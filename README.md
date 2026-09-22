@@ -26,6 +26,8 @@ Before you begin, ensure you have met the following requirements:
    LANGCHAIN_PROJECT=week_6_1
    TAVILY_API_KEY=your-tavily-key
   ```
+
+The `LANGCHAIN_API_KEY` is obtained from **LangSmith**, LangChain’s tracing and observability platform. If you are looking for where to create this key, search for LangSmith rather than LangChain.
 ## Docker (recommended)
 1. Run the first example (`simple_message_graph.py`):
    ```
